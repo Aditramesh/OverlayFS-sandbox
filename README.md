@@ -113,4 +113,4 @@ c--------- . This is called a Whiteout file. It tells the kernel if anyone looks
 
 ### NOTE:
 
-This overlay filesystem in part of the RAM and all cahnges will disappear when the container is stopped.
+This overlay filesystem in part of the RAM and all changes will disappear when the container is stopped.
