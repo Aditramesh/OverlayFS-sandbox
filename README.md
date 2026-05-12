@@ -104,7 +104,7 @@ But now check the lower folder,
 ls -l lower/
 ```
 
-It is still there. The base image was not modified. So how is it hidden? Look in the upper directory 
+It is still there. The base layer was not modified. So how is it hidden? Look in the upper directory 
 ```bash
 ls -l upper/
 ```
