@@ -16,4 +16,4 @@ echo "I am a new log file." > /tmp/overlay-demo/upper/app.log
 
 echo "I am a MODIFIED core OS file." > /tmp/overlay-demo/upper/os-release.txt
 
-sleep infinity
+exec "$@"
